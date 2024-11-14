@@ -1,0 +1,11 @@
+h1
+	{color:red;}
+body
+{
+	background-color:black;
+	background-image:url("superman.jpg");
+	background-size:900px;
+	background-repeat:no-repeat;
+	background-position:center;
+
+	}
